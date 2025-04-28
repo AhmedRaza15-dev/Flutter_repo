@@ -9,7 +9,7 @@ A simple Flutter application with login and home pages, where the home page back
 
 ## Screenshots
 
-| Login Page | Home Page |
+| Home Page | Login Page |
 |------------|-----------|
 | <img src="https://github.com/user-attachments/assets/5cfe3722-8e67-4e6a-9900-20d50f6c7d13" width="300" height="500"> | <img src="https://github.com/user-attachments/assets/a860aff2-02f3-4502-ab29-04daa4589c65" width="300" height="500"> |
 
