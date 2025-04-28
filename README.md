@@ -1,4 +1,19 @@
-## Practice 1:
-A simple login page and Home page in Flutter with color changing screen. Output is given as:
-![WhatsApp Image 2025-04-28 at 07 25 26_498614a9](https://github.com/user-attachments/assets/5ac9d1b3-40df-4c26-b0b9-b0c67b62e668)
-![WhatsApp Image 2025-04-28 at 07 24 46_8fbe6022](https://github.com/user-attachments/assets/ec39720e-c4ca-44ee-a0cc-aa02739349a5)
+# Color Changing Flutter App
+
+A simple Flutter application with login and home pages where the home page background changes color.
+
+## Features
+- Login page with email and password fields
+- Home page with color-changing background
+- Text color automatically adjusts for visibility
+
+## Screenshots
+
+| Login Page | Home Page |
+|------------|-----------|
+| <img src="screenshots/login.png" width="300"> | <img src="screenshots/home.png" width="300"> |
+
+## How to Run
+1. Clone this repository
+2. Run `flutter pub get`
+3. Run `flutter run`
