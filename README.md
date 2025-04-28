@@ -1,6 +1,6 @@
-# Color Changing Flutter App
+# Practice1: Color Changing Flutter App
 
-A simple Flutter application with login and home pages where the home page background changes color.
+A simple Flutter application with login and home pages, where the home page background changes color.
 
 ## Features
 - Login page with email and password fields
